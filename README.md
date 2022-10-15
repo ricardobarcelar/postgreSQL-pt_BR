@@ -1,5 +1,6 @@
 # postgreSQL-pt_BR
-Cria uma imagem do postgres pt_BR com suporte para locale 'pt_BR.UTF-8'
+Cria uma imagem do postgreSQL com suporte para locale 'pt_BR.UTF-8'.
+
 
 # Instruções
 
